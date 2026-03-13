@@ -79,7 +79,7 @@ habits.
 
 ---
 
-## 👥 Customer Segments
+## Customer Segments
 | Cluster | Instagram Visit Score | Spending Rank | Label |
 |---|---|---|---|
 | Cluster 0 | 63 | 24.050708 |  High Visitors, Low Spenders |
@@ -87,6 +87,3 @@ habits.
 | Cluster 3 | 14 | 31.492397	| Low Visitors, High Spenders |
 
 ---
-
-fy distinct
-  user engagement and spending patterns
